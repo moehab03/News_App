@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.News" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/forest_green</item>
+        <item name="colorPrimaryVariant">@color/forest_green</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+
+    </style>
+
+    <style name="Theme.News" parent="Base.Theme.News" />
+
+    <style name="article_image_corner" parent="">
+        <item name="cornerSize">5%</item>
+    </style>
+
+    <style name="spinner_text">
+        <item name="android:textColor">@color/forest_green</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:padding">14dp</item>
+    </style>
+</resources>

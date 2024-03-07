@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">News</string>
+    <string name="developed_by_mohamed_ehab">تم التطوير بواسطة محمد إيهاب</string>
+    <string name="news_app">تطبيق الاخبار</string>
+    <string name="retry">حاول مجددا</string>
+    <string name="view_full_article">"شاهد الخبر كامل "</string>
+    <string name="pick_your_category_of_interest">اختار موضوع الاخبار الشيق اليك</string>
+    <string name="categories">المواضيع</string>
+    <string name="settings">الاعدادات</string>
+    <string name="search_article">بحث</string>
+    <string name="language">اللغة</string>
+</resources>
